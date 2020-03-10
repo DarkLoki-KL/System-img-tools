@@ -9,13 +9,10 @@ It currently supports Windows x86/x64 (Cygwin), Linux x86/x64.
 Just paste the required files here.
 To unpack:- system/vendor.new.dat.br and system/vendor.transfer.list
 To repack:- Raw system/vendor image (system/vendor.raw.img)(system/vendor.img)
-EXECUTE THE TOOL AS ROOT (IMPORTANT!!!)<br>
-Steps:-<br>
-sudo -s<br>
-./menu<br>
 
-## Info
-For more information about this binary can be found here:- 
+## Note
+This is the source sode.<br>
+More information about this binary can be found here:- 
 
 ## Credits
 This binary is just a modified version of the following binaries:-
