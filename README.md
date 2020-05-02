@@ -1,3 +1,9 @@
+NOTE:- <br><br>
+                                      " PROJECT HAS BEEN ABANDONED FOR SOME TIME <br><br>
+                                           REASON:- I LOST THE SOURCE CODE xD<br><br>
+                                          WILL BE BACK SOON WITH A BETTER TOOL "<br><br>
+                                       
+
 # System image tools by @itsdrnoob
 Convert system/vendor.new.dat.br found in custom roms to raw image and back to system/vendor.new.dat.br
 
